@@ -1,4 +1,4 @@
 deploy:
   type: git
-  repo: https://github.com/JackyLee1976/test.github.io.git
+  repo: https://github.com/JackyLee1976/test.git
   branch: master
